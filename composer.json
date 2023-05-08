@@ -1,5 +1,5 @@
 {
-    "name": "simonschaufi/laravel-dkim",
+    "name": "fjahn/laravel-dkim",
     "description": "Laravel package for signing outgoing messages with DKIM.",
     "type": "library",
     "license": "MIT",
